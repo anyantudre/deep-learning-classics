@@ -1,0 +1,14 @@
+It's been a while since posted here. Well, I've had quite a very busy semester whith many projects to complete. Hopefully everything worked on well.
+
+I'm taking you back to the 4 intense days of OxML Summer School I had the chance to take part last month.
+
+On Day 1, I had a good refresh of ML basics as the program was as follow:
+
+First Biwei Huang, covered the fundamentals of ML i.e. Linear Models, Feature Maps, Radial Basis Function then a brief overview of Neural Networks (MLP, CNNs and Autoencoders).
+
+
+— Deep Learning by Yuki M. Asano
+— Practical ML & Optimisation by Richard Willis.
+
+My key takeaways were:
+- 
