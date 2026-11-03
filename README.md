@@ -18,6 +18,7 @@ This repository collects landmark deep learning papers. Each one gets a short su
   - [Diffusion and flow matching](#diffusion-and-flow-matching)
   - [Graph neural networks](#graph-neural-networks)
   - [Self-supervised learning](#self-supervised-learning)
+  - [Optional papers](optional-papers.md)
 - [Courses](#courses)
 - [Resources](#resources)
 - [License](#license)
@@ -41,6 +42,8 @@ A category folder is created when work on its first paper starts. Each paper liv
 ## Paper list
 
 Years are the first public release (usually arXiv), not the conference year. Status is **Done**, **In progress**, or empty when not started.
+
+Second-priority papers that extend these are listed in [optional-papers.md](optional-papers.md).
 
 ### Foundations
 
